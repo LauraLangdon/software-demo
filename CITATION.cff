@@ -1,0 +1,16 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Biodiversity Analysis Toolkit
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Laura
+    family-names: Langdon
+    email: lalangdon@ucdavis.edu
+    affiliation: UC OSPO Network
+    orcid: 'https://orcid.org/0000-0001-7044-7295'
+license: BSD-3-Clause
